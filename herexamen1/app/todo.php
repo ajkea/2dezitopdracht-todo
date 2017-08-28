@@ -13,6 +13,8 @@ class todo extends Model
     public function ophalenTodo($id)
     {
         return DB::table('todos')
+        ->join('users', 'todos.idUser','=','users.id')
+        ->select('todos.*','users.name')
         ->where('idUser',$id)
         ->get();
     }
