@@ -3,6 +3,9 @@
 ## Link naar project online
 http://hendrik.vandijck.mtantwerp.eu
 
-## project met commits
-Het project staat ook onder een andere repository online maar deze had de foute naam en ik vond het niet direct om van naam te veranderen. link:
-https://github.com/ajkea/web-backend
+oefeningen semester 1 staan op:
+https://github.com/ajkea/web-backend-oplossingen
+
+## opmerking
+Ik kreeg de oefeningen niet geupload op github, ik heb geen idee hoe dit komt. Kreeg meldingen krijgen dat mijn branch up-to-date is.
+eventueel bewijs: http://i.imgur.com/Qx74UZI.png
